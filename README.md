@@ -89,6 +89,6 @@ Le projet est organisé en plusieurs dossiers :
 - Observer les décisions prises par l'IA en fonction des ressources.
 
 ## 👨‍💻 Auteur
-Nom : Lucas OLIVAREZ
-Cours : JavaScript / REACT
-École : Metz Numeric School
+- Nom : Lucas OLIVAREZ
+- Cours : JavaScript / REACT
+- École : Metz Numeric School
